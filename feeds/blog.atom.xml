@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thoughts and Things - blog</title><link href="https://AlexanderKnight.github.io/" rel="alternate"></link><link href="https://AlexanderKnight.github.io/feeds/blog.atom.xml" rel="self"></link><id>https://AlexanderKnight.github.io/</id><updated>2023-10-05T12:25:00-04:00</updated><entry><title>First Post on Github Pages Website</title><link href="https://AlexanderKnight.github.io/first-post-on-github-pages-website.html" rel="alternate"></link><published>2023-10-05T12:25:00-04:00</published><updated>2023-10-05T12:25:00-04:00</updated><author><name>Alexander Knight</name></author><id>tag:alexanderknight.github.io,2023-10-05:/first-post-on-github-pages-website.html</id><content type="html">&lt;h1&gt;Setting up the blog&lt;/h1&gt;
+&lt;h2&gt;Hello!&lt;/h2&gt;
+&lt;p&gt;This will be my new webpage, focused on my work in graduate school, my thoughts on select topics, and information on how to reach me for various reasons. 
+Keep an eye on this to see what I am up to!&lt;/p&gt;</content><category term="blog"></category></entry></feed>
